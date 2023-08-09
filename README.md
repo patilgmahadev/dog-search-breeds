@@ -1,3 +1,9 @@
+The Dog breeds search app
+
+Live demo: https://j7y64p-3000.csb.app/
+
+![dog-breeds-search](https://github.com/patilgmahadev/dog-search-breeds/assets/5888737/b8e49b28-6542-44b8-8644-4ab45963a38a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
