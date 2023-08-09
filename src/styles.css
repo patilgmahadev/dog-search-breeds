@@ -1,0 +1,101 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  min-height: 679px;
+  background: #9e9e9e0f;
+}
+
+input {
+  width: 200px;
+  font-size: 16px;
+  font-family: inherit;
+  padding: 8px;
+  background-color: #fff;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
+select {
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 0.25em;
+  padding: 7px;
+  font-size: 1.25rem;
+  cursor: pointer;
+  line-height: 1.1;
+  background-color: #fff;
+}
+
+label {
+  font-size: 16px;
+  font-weight: bold;
+  display: block;
+  text-align: left;
+  padding-bottom: 8px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+.search-form {
+  display: flex;
+  padding: 32px;
+  justify-content: center;
+}
+
+.search-input-section {
+  padding-right: 16px;
+}
+
+#breads {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#breads td,
+#breads th {
+  border: 1px solid #ddd;
+  padding: 16px;
+  width: 30%;
+}
+
+#breads tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#breads tr:hover {
+  background-color: #ddd;
+}
+
+#breads th {
+  text-align: left;
+  background-color: #04aa6d;
+  color: white;
+}
+
+.text-info {
+  text-align: left;
+  padding: 4px;
+}
+
+.error {
+  color: #ba3939;
+  background: #ffe0e0;
+  border: 1px solid #a33a3a;
+  padding: 24px 32px;
+  margin: 32px;
+}
+
+.breed-list-container {
+  padding: 32px;
+}
+
+.warning-msg {
+  color: #9F6000;
+  background-color: #FEEFB3;
+  padding: 8px;
+  width: 200px;
+  margin: 0 auto;
+}
